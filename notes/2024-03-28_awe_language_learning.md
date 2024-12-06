@@ -2,7 +2,7 @@
 
 2024-03-28
 
-Language teaching in environments that generate a sense of mystery and awe. A dark theater. Escape room. Roleplay with urgent situations.
+Idea: language teaching in environments that generate a sense of mystery and awe. A dark theater. Escape room. Roleplay with urgent situations.
 
 Things that make the mind instantly alert.
 

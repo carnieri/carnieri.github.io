@@ -20,9 +20,9 @@ A Deepness in the Sky - Vernor Vinge
 
 827 Era Galáctica - Isaac Asimov
 
-Realtime I    - Vernor Vinge 
+Realtime I - Vernor Vinge 
 
-Realtime II    - Vernor Vinge
+Realtime II - Vernor Vinge
 
 #### Setembro
 
@@ -36,7 +36,7 @@ Ringworld 4 - Ringworld's Children
 
 #### Outubro
 
-Realtime III    - Vernor Vinge
+Realtime III - Vernor Vinge
 
 Atlas Shrugged - Ayn Rand
 

@@ -26,6 +26,14 @@ Created on: 2024-12-04
 
 [Gamification considered harmful](notes/2023-05-30_gamification_considered_harmful.md)
 
+[List of important problems](notes/important_problems.md)
+
+[Thoughts arise](notes/2022-03-06_thoughts_arise.md)
+
+[Comprehensible input for building world models](notes/2022-03-08_comprehensible_input_world_models.md)
+
+[Chess](2019-09-15_chess.md)
+
 ## Ideas
 
 [Book animation with AI](notes/2017-01-18_Book_animation_with_AI.md)
@@ -41,5 +49,5 @@ Created on: 2024-12-04
 
 ## Books I've read
 
-I try to keep a [log of the books I've read](notes/books_read.md). Sometimes I write down a sentence or two about the book.
+I try to keep a [list of the books I've read](notes/books_read.md). Sometimes I write down a sentence or two about the book.
 
