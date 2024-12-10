@@ -120,8 +120,6 @@ Kemono no souja - Uehashi Nahoko
 
 Oracle bones - Peter Hessler
 
-The adventures of Jonathan Gullible
-
 
 ### 2014
 
@@ -602,3 +600,6 @@ Ancillary Mercy - Ann Leckie
 
 The Player of Games - Iain M. Banks
 
+#### Audiobooks (with my daughter):
+
+Wings of Fire - books 9 through 14 - Tui Sutherland

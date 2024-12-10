@@ -32,7 +32,7 @@ Created on: 2024-12-04
 
 [Comprehensible input for building world models](notes/2022-03-08_comprehensible_input_world_models.md)
 
-[Chess](2019-09-15_chess.md)
+[Chess](notes/2019-09-15_chess.md)
 
 ## Ideas
 
