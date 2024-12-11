@@ -12,7 +12,7 @@ Created on: 2024-12-04
 
 [Data outlives code](notes/2022-07-28_Data_outlives_code.md)
 
-[Read the paper instead of the book](notes/2022-08-04.md)
+[Read the paper instead of the book](notes/2022-08-04_read_the_paper.md)
 
 [What if jupyter notebooks were two-columns?](notes/2022-08-05_two_column_notebooks.md)
 
