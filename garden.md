@@ -34,6 +34,8 @@ Created on: 2024-12-04
 
 [Chess](notes/2019-09-15_chess.md)
 
+[Exposure to opportunity](notes/2024-12-10_exposure_to_opportunity.md)
+
 ## Ideas
 
 [Book animation with AI](notes/2017-01-18_Book_animation_with_AI.md)
