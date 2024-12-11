@@ -312,6 +312,8 @@ Introdução aos fundos de investimento imobiliário - André L. F. S. Bacci
 
 The war with the newts - Karel Čapek. Didn't finish.
 
+The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you -  Rob Fitzpatrick. Didn't finish.
+
 
 ### 2019
 
@@ -331,6 +333,7 @@ The fifth head of Cerberus - Gene Wolfe. Excellent.
 
 Designing data-intensive applications -  Martin Kleppmann. Excellent.
 
+Atomic habits - James Clear. Didn't finish, though it's pretty good. It could be much shorter.
 
 ### 2020
 
@@ -423,6 +426,7 @@ The tower of swallows - Andrzej Sapkowski (The witcher book 6)
 
 The lady of the lake - Andrzej Sapkowski (The witcher book 7)
 
+The soul of a new machine - Tracy Kidder. Didn't finish.
 
 
 ### 2021
