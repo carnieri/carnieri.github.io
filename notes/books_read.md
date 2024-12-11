@@ -2,17 +2,11 @@
 
 ### 2011
 
-#### Janeiro
-
 O Guida do Mochileiro das Galáxias - 1 - Douglas Adams
 
 O Guida do Mochileiro das Galáxias - 2 - Douglas Adams
 
-#### Fevereiro
-
 A Odisseia - Homero
-
-#### Maio
 
 A Fire Upon the Deep - Vernor Vinge
 
@@ -24,8 +18,6 @@ Realtime I - Vernor Vinge
 
 Realtime II - Vernor Vinge
 
-#### Setembro
-
 Ringworld - Larry Niven
 
 Ringworld 2 - The Ringworld Engineers
@@ -34,13 +26,9 @@ Ringworld 3 - Ringworld Throne
 
 Ringworld 4 - Ringworld's Children
 
-#### Outubro
-
 Realtime III - Vernor Vinge
 
 Atlas Shrugged - Ayn Rand
-
-#### Dezembro
 
 O Guida do Mochileiro das Galáxias - 3 - Douglas Adams
 
@@ -53,25 +41,17 @@ quatro quadras - Nils Skare
 
 ### 2012
 
-#### Janeiro
-
 The Method of Zen - Eugen Herrigel
 
 Oriental Ghost Stories - Lafcadio Hearn
-
-#### Fevereiro
 
 Snow Crash - Neal Stephenson
 
 How to Solve It - George Pólya (li quase tudo)
 
-#### Março
-
 The Moon is a Harsh Mistress - Robert Heinlein (pela 2a vez)
 
 Os Defensores e outros contos - Philip K. Dick - tradução de Nils Skare
-
-#### Abril
 
 Fast Times at Fairmont High - Vernor Vinge
 
@@ -90,8 +70,6 @@ The Hunger Games - Mockingjay - Book 3 - Suzanne Collins
 The Sirens of Titan - Kurt Vonnegut
 
 Neutron Star - Larry Niven
-
-#### May
 
 Protector - Larry Niven
 
@@ -123,15 +101,11 @@ Oracle bones - Peter Hessler
 
 ### 2014
 
-#### Janeiro
-
 The island of the day before - Umberto Eco
 
 O coracao das trevas - Joseph Conrad
 
 Pride and prejudice - Jane Austen
-
-#### Fevereiro
 
 Quarantine - Greg Egan
 
@@ -143,8 +117,6 @@ Door into Summer - Robert Heinlein
 
 Citizen of the Galaxy - Robert Heinlein
 
-#### Marco
-
 Time enough for love - Robert Heinlein
 
 Friday - Robert Heinlein
@@ -153,14 +125,9 @@ The adventures of Jonathan Gullible - Ken Schoolland
 
 Robinson Crusoe - Daniel Defoe
 
-#### Abril
-
 Effective C++ - Scott Meyers
 
 More Effective C++ - Scott Meyers
-
-#### Maio
-
 
 Rolling Stones - Robert Heinlein
 
@@ -180,8 +147,6 @@ Orphans of the Sky - Robert Heinlein
 
 Between Planets - Robert Heinlein
 
-#### Junho
-
 Farmer in the sky - Robert Heinlein
 
 Entre Amigos - Amos Oz
@@ -198,13 +163,9 @@ Podkayne of Mars - Robert Heinlein
 
 Magic, Inc - Robert heinlein
 
-#### Julho
-
 By his bootstraps - Robert Heinlein
 
 How an economy grows and why it crashes - Irwin Schiff and Peter Schiff
-
-#### Agosto
 
 Free to choose - Milton and Rose Friedman
 
@@ -215,8 +176,6 @@ O imortal - Machado de Assis
 O pai - Machado de Assis
 
 A heranca - Machado de Assis
-
-#### Setembro
 
 The left hand of darkness - Ursula Le Guin
 
@@ -231,8 +190,6 @@ Judas Unchained - Peter F. Hamilton
 
 ### 2015
 
-#### Janeiro
-
 The fatal conceit - the errors of socialism - Friedrich Hayek
 
 Cryptonomicon - Neal Stephenson
@@ -243,8 +200,6 @@ Capitalism and freedom - Milton Friedman
 
 Ready player one - Ernest Cline
 
-#### Fevereiro
-
 The demolished man - Alfred Bester
 
 Principles of economics - Carl Menger
@@ -253,19 +208,13 @@ Stardust - Neil Gaiman
 
 The graveyard book - Neil Gaiman
 
-#### Marco
-
 Rainbows End - Vernor Vinge
 
 The Three Body Problem - Liu Cixin
 
 Maré de Verão - Charles Sheffield
 
-#### Abril
-
 The Mote in God's Eye - Jerry Pournelle and Larry Niven
-
-#### Junho
 
 Wake - Robert Sawyer
 
@@ -274,8 +223,6 @@ Watch - Robert Sawyer
 Wonder - RObert Sawyer
 
 The Martian - Andy Weir
-
-#### Setembro
 
 Harry Potter and the Methods of Rationality - Eliezer Yudkowsky
 
@@ -286,35 +233,21 @@ To read: A revolução dos bichos
 
 ### 2016
 
-#### Janeiro
-
 The man who shook the world - John Charles Pollock
-
-#### Fevereiro
 
 Masters of Doom - David Kushner. About John Carmack and John Romero, cofounders of id Software
 
 The Dark Forest - Liu, Cixin. Second book of the trilogy. Depicts the events on Earth and the Solar System during a 200-ish year span while the Trisolarian fleet is approaching earth. Some topics: Wallfacer Project, theory of cosmic civilizations, technological stagnation due to alien interference.
 
-#### Marco
-
 Permutation City - Greg Egan. Read for the 2nd time. About simulating people in software an whether a simulated person can tell that it is being simulated.
-
-#### Maio
 
 The Sparrow - Mary Doria Russell. A book about first contact with aliens. Has some interesting ideas: music from the aliens is what the humans first hear through radio, and what attracts them to the alien planet; aliens use children when first forming trade alliances with other tribes, so they can learn each other's languages.
 
 Children of God - Mary Doria Russell. Continuation of "The Sparrow". Not as good as the first one.
 
-#### Junho
-
 The Last Ringbearer - Kirill Yeskov
 
-#### Julho
-
 Seveneves - Neal Stephenson. An unexplained event called by people on Earth "the Agent" shatters the Moon into fragments. An astronomer predicts that, in about two years, those fragments will hit the Earth (the Hard Rain), destroying all life on the surface. In order to save as many people as possible (a few thousands), new parts are added to the International Space Station (which already had an asteroid attached to it), and a plan is wrought to build a distributed fleet of small ships. Many people are sent to orbit, the Hard Rain hits, and after five years of struggle, only eight women survive, docking the ISS on the Cleft, which is a large, iron-rich piece of the late Moon. The seven women who can still bear children become the ancestors of a new era of humanity. Through four thousand years, the remaining large pieces of the Moon are colonized, and new efforts begin to reseed the Earth with life. However, two surviving tribes are found on Earth: some who descended from people who protected themselves deep in mines before the Hard Rain hit, and others who did the same under the sea.
-
-#### Agosto
 
 Leviathan Wakes - James S. A. Corey. Terrible story about zombies in space.
 
@@ -326,24 +259,18 @@ Hybrids - Robert J. Sawyer
 
 About the "Hominids" series. I'd already noticed this in the author's WWW series, and the same thing happens in the "Hominid" series: the author uses his characters to voice his morals in really obvious ways. I wish he was more subtle. This story could have been so much more.
 
-#### September
-
 Proxima - Stephen Baxter. This was a surprisingly good read. The science is good. One thing that stood out is that the people who arrive in Proxima are not interested in the native life they find there. I find this hard to believe.
 
-#### October
-
-Fora da curva
-
-#### November
+Fora da curva - compilado por Pierre Moreau, Florian Bartunek e Giuliana Napolitano
 
 Death's End - Cixin Liu. Third book in the Three-body problem trilogy.
 
 The Reluctant Communist - My desertion, court-martial, and forty-year imprisonment in North Korea - Charles Robert Jenkins, Jim Frederick
 
+Ultima - Stephen Baxter
+
 
 ### 2017
-
-#### Janeiro
 
 Rocannon's World - Ursula Le Guin. First book of the Hainish Cycle.
 
@@ -375,19 +302,18 @@ Nemesis Games - James S. A. Corey
 
 Babylon's Ashes - James S. A. Corey
 
-#### Outubro
-
 Roadside Picnic - Arkady and Boris Strugatsky. The story depicts events that happen after aliens visit and leave Earth, making no contact with us. The areas they touched become the Zones, extremely dangerous places, where few venture, and from where even fewer come back. The ones that do so illegally are the stalkers. The story centers on one of them, Red, who is brash but also good.
 
+Cloud Atlas - David Mitchell
 
 ### 2018
 
-I didn't log any books read in 2018. But I'm sure I read some.
+Introdução aos fundos de investimento imobiliário - André L. F. S. Bacci
+
+The war with the newts - Karel Čapek. Didn't finish.
 
 
 ### 2019
-
-#### Janeiro
 
 Playing with FIRE - Scott Rickens. Couple with small daughter who lived in Coronado, near San Diego, and decided to strive for FI(RE) by moving, having only one car, etc. Author is making a documentary about FIRE which will be released in 2019.
 
@@ -399,17 +325,14 @@ Principles - Ray Dalio
 
 How to make friends and influence people - Dale Carnegie. Didn't finish reading.
 
-#### Junho
-
 Exhalation - Ted Chiang. Short stories.
 
-#### Setembro
-O sofrimento
+The fifth head of Cerberus - Gene Wolfe. Excellent.
+
+Designing data-intensive applications -  Martin Kleppmann. Excellent.
 
 
 ### 2020
-
-#### Janeiro
 
 The Institute - Stephen King. The book is about kids with psychic abilities who are kidnapped and kept in an institute, where they suffer injections, near-death drowning, and other terrors. The adults there use them to kill people at a distance, in order to avoid global destruction. Luke Ellis is the protagonist, a 12 year-old boy with some psychic abilities and a genius IQ. His genius IQ is somewhat superfluous to the story. 7/10.
 
@@ -442,14 +365,11 @@ Partially read: The science of enlightenment - Shinzen Young
 Partially read: The mind illuminated - Culadasa (John Yates)
 
 Interesting idea:
-  - 6 point preparation before meditation (motivation etc)
-  - 4 steps of increasingly focused awareness: awareness of body and external sensations, awareness of body, awareness of breath in body, awareness of breath in nose area
-  - two types of awareness: focused awareness and peripheral awareness.
+- 6 point preparation before meditation (motivation etc)
+- 4 steps of increasingly focused awareness: awareness of body and external sensations, awareness of body, awareness of breath in body, awareness of breath in nose area
+- two types of awareness: focused awareness and peripheral awareness.
     
-
-#### November
-
-Partially read: The Joy of Living
+Partially read: The Joy of Living - Yongey Mingyur Rinpoche, Eric Swanson
 
 Partially read: Principles of Product Development Flow - Donald Reinertsen
 
@@ -459,12 +379,9 @@ Interesting ideas:
 - If resources have high utilization rates, an increase in the amount of jobs, or if some job takes much longer than expected, will make the queue size increase dramatically.
 - The Internet protocols use sophisticated feedback mechanisms to control queues.
   
-
 Red Mars - Kim Stanley Robinson
 
 Green Mars - Kim Stanley Robinson
-
-#### December
 
 Good strategy / Bad strategy - Richard Rumelt.
 
@@ -488,24 +405,37 @@ Bad strategy has the following hallmarks:
 - Failure to recognize or define the challenge. When you cannot define the challenge, you cannot evaluate a strategy or improve it.
 - Mistaking goals for strategy. Many bad strategies are just statements of desires.
 
+The art of readable code - Dustin Boswell and Trevor Foucher
 
-### 2020
+Fluent forever - Gabriel Wyner. I really like his thought on language learning, and I apply some of them myself.
 
-#### Janeiro
+The last wish - Andrzej Sapkowski (The witcher book 1)
+
+Sword of destiny - Andrzej Sapkowski (The witcher book 2)
+
+Blood of elves - Andrzej Sapkowski (The witcher book 3)
+
+Time of contempt - Andrzej Sapkowski (The witcher book 4)
+
+Baptism of fire - Andrzej Sapkowski (The witcher book 5)
+
+The tower of swallows - Andrzej Sapkowski (The witcher book 6)
+
+The lady of the lake - Andrzej Sapkowski (The witcher book 7)
+
+
+
+### 2021
 
 The Phoenix Project - Gene Kim and others. A novel about devops. A recently promoted IT manager takes the company IT from a complete mess to an effective part of the organization.
 
 Blue Mars - Kim Stanley Robinson
 
-#### Fevereiro
-
 O Conde de Monte Cristo - Alexandre Dumas. 10/10.
 
 Secrets to winning at office politics - Marie G. McIntyre
 
-#### Abril
-
-The Goal - Eliyahu Goldratt. A novel about the Theory of Constraints applied to a manufacturing plant.
+The Goal - Eliyahu Goldratt. A novel about the Theory of Constraints applied to a manufacturing plant. Thrash. Read a book on operations research instead.
 
 The goal of the company is to make money.
 
@@ -523,36 +453,28 @@ Lean Software Development - An Agile Toolkit - Mary and Tom Poppendieck
 
 Project Hail Mary - Andy Weir
 
-Kamma and the end of kamma - Ajahn Sucitto
+Partially read: Untangling self - Andrew Olendzki
 
+Surfing uncertainty - Andy Clark. Disappointing.
 
 ### 2022
 
-O Hobbit - li para a Stella, de novo
+O Hobbit - J. R. R. Tolkien - li para a Stella, de novo
 
 O sobrinho do mago - C. S. Lewis - li para a Stella
 
-#### Abril
-
 Harry Potter and the Philosopher's Stone - li para a Stella
-
-#### Maio
 
 Harry Potter and the Chamber of Secrets - li a maior parte para a Stella
 
 Harry Potter and the Prisoner of Azkaban
 
-Li todos os livros do Harry Potter.
-
-
-#### Setembro
+All Harry Potter books.
 
 Art of Action - Stephen Bungay
 - about strategy
 - compares business strategy with military one
 - interesting: briefing and back-briefing
-
-#### October
 
 The Effective Engineer - Edmond Lau
 
