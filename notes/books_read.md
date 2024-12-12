@@ -335,6 +335,8 @@ Designing data-intensive applications -  Martin Kleppmann. Excellent.
 
 Atomic habits - James Clear. Didn't finish, though it's pretty good. It could be much shorter.
 
+Algorithms to live by - Tom Griffiths, Brian Christian, Thomas L. Griffiths
+
 ### 2020
 
 The Institute - Stephen King. The book is about kids with psychic abilities who are kidnapped and kept in an institute, where they suffer injections, near-death drowning, and other terrors. The adults there use them to kill people at a distance, in order to avoid global destruction. Luke Ellis is the protagonist, a 12 year-old boy with some psychic abilities and a genius IQ. His genius IQ is somewhat superfluous to the story. 7/10.
