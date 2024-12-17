@@ -36,6 +36,8 @@ Created on: 2024-12-04
 
 [Exposure to opportunity](notes/2024-12-10_exposure_to_opportunity.md)
 
+[Archiving format with built-in error detection and recovery](notes/2024-12-14_archiving.md)
+
 ## Ideas
 
 [Book animation with AI](notes/2017-01-18_Book_animation_with_AI.md)
