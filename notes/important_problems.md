@@ -82,6 +82,4 @@ What is the difference between wealth and simply "getting what you want"?
 
 What is the research on effective methods that increase wealth?
 
-Here are some ideas:
-1. Premature deaths have a high cost to society. It's in everyone's interest that other people flourish.
-2. 
+It's in everyone's interest that other people flourish. 
